@@ -1,0 +1,401 @@
+Id,sentence,label
+0,What are you seeing?,0
+1,Well obviously this is a good movie,1
+2,That was great!,0
+3,Hi there! How's your day?,0
+4,I'm not feeling good,6
+5,I want to try that ice cream,5
+6,Have you ever tried the japanese ghost house?,6
+7,I am dissapointed,8
+8,That was epic!,9
+9,I don't know,3
+10,The food is so delicious,5
+11,I hate you,4
+12,I want cookies and cream flavored food,5
+13,I was shocked,7
+14,Your dog is so cute,2
+15,I am sad,3
+16,My phone is broken,3
+17,I love you,2
+18,The chicken is so juicy,5
+19,Gordon Ramsay is such a great chef,9
+20,The game storyline is so awful,10
+21,I feel like I want to throw up,6
+22,I like strawberry,2
+23,I can't believe you cheated on me,8
+24,How are you?,0
+25,He was such a jerk,10
+26,I feel like I want to cry,3
+27,I want to play but my brother didn't let me,4
+28,My mom's cooking is so good,5
+29,I am on my way to your house,0
+30,I recommend this game,9
+31,Definitely the best game of the year,9
+32,This is the best food I ever taste,5
+33,The flavor is so unique,5
+34,I just finished eating,1
+35,Can we be friends?,0
+36,Who is your favorite character?,0
+37,Thank you,9
+38,Just relaxing,0
+39,Why don’t you call me earlier?,4
+40,I have a present for you,0
+41,Do you really just broke up with her?,7
+42,How did you do that?,7
+43,I can't believe what we're seeing,6
+44,That joke is so funny!,1
+45,That was unfortunate,3
+46,You are not a good guy anymore,10
+47,He rejected me,8
+48,She didn't accept my proposal,8
+49,I feel so heartbroken,8
+50,My computer got infected by a virus,3
+51,Why don't you help her?,10
+52,I want to watch a movie,2
+53,Okay,9
+54,Sure,9
+55,My book is gone,3
+56,I cant think of anything,6
+57,I am tired,6
+58,I feel so useless,6
+59,Why cant you be anymore useless than that?,4
+60,Just a little bit more,0
+61,I have to go right now,3
+62,Great job!,9
+63,You are doing great,9
+64,Your performance is not as good as in practice,10
+65,Why don't you come to my party?,3
+66,That rollercoaster is so fun,1
+67,The cat is so fluffy,2
+68,Japanese language is so hard,3
+69,Good game,9
+70,The cat is so cute,2
+71,The house is built so fast,7
+72,He ran so fast,7
+73,He took my wallet without my permission,4
+74,He opened my phone,4
+75,I don’t want to think of it,6
+76,I got a brand new phone,0
+77,He feel of his chair,1
+78,I hope everyone comes,6
+79,My dog died this morning,3
+80,Why am I born in this world,3
+81,I commended you,9
+82,That backflip is so cool!,9
+83,The movie is unpredictable,9
+84,You are so slow,10
+85,Oh no!,6
+86,What a cute puppies,2
+87,She is so beautiful,2
+88,Why are you so unorganized,4
+89,I don’t want to meet him,8
+90,My drink got fly in it,4
+91,I didn't get invited by her,3
+92,Why did you only got 62?,10
+93,Do you want to play badminton?,0
+94,Lets eat beef!,5
+95,Did you always type that fast?,0
+96,Why is your room always dirty,4
+97,I don’t know how to do this,3
+98,I want to listen to anime music,1
+99,I hurt myself,3
+100,I cant imagine what will he do if he fell,1
+101,So romantic,2
+102,This is so stupid!,4
+103,You are the best,9
+104,What did you say?,7
+105,Did you just do that?,7
+106,Did he just do that?,7
+108,You are so bad,10
+109,You're so bad,10
+110,You are so beautiful,2
+111,It is so funny,1
+112,It was so funny,1
+113,So delicious,5
+114,Yummy,5
+115,I can't laugh anymore,1
+116,Don't talk to me,8
+117,I'm sorry,6
+118,Are you okay?,6
+119,Nice job,9
+120,Good job,9
+121,Lol,1
+122,I don't know,6
+123,I'm so sad,3
+124,I am so sad,3
+125,I am so desperate,6
+126,Have a nice day,0
+127,He is so handsome,2
+128,I am sick,3
+129,Are you serious?,7
+130,Don't worry,0
+131,You are not alone,0
+132,I like you,0
+133,I like to eat,5
+134,This is so hard,4
+135,Cant take this anymore,4
+136,I feel good,0
+137,Don't be afraid,0
+138,I am joking,1
+139,This is so funny,1
+140,I fell in love,2
+141,Don't say like that,0
+142,No worries,0
+143,I just saw ghost,7
+144,So scary,7
+145,so bad,10
+146,Take it easy,0
+147,Good morning,0
+148,What did you say?,4
+149,I don't trust you,4
+150,Don't be afraid,0
+151,I Don’t like you,8
+152,Poor job,10
+153,Poor design,10
+154,Be serious,4
+155,I Don't feel so good,3
+156,So awesome,9
+157,This cat is so cute,2
+158,so cute,2
+159,Texting the most beautiful girl,2
+160,Don't text me again,8
+161,So yummy,5
+162,So delicious,5
+163,Have you heard about him?,7
+164,Fuck off,4
+165,You are perfect,2
+166,I'm glad you here,0
+167,Listen to me,4
+168,I gave up,3
+169, What a lovely girl,2
+170,I lost it,3
+171,How are you going?,0
+172,What a guy,7
+173,I'm shocked,7
+174,You jealous,4
+175,It is better,9
+176,It is worse,10
+177,Stay positive,0
+178,I know you are good boy,0
+179,I know you are bad boy,4
+180,I will always trust you,9
+181,I won't trust you anymore,10
+182,Why do you lie?,4
+183,Liar,4
+184,It is my only hope,3
+185,I very enjoy it,0
+186,Nothing is impossible,9
+187,I am broken heart,8
+188,Most of it are awesome,9
+189,Most of them are bad,10
+190,You can't keep a secret,4
+191,Don't be nervous,0
+192,I laugh so hard,1
+193,Be discipline,4
+194,Useful review,9
+195,You can count on me,9
+196,I like the food,5
+197,Are they okay?,6
+198,I am not confident,6
+199,I am crying,3
+200,I love to watch the movie again,2
+301,Are you kidding me?,4
+302,good morning guys,0
+303,That was delicious,5
+304,what a newbie,10
+305,GOOD WORK!,9
+306,What have  you done?,3
+307,Why would  you do that to me?,4
+308,Have you done your homework?,0
+309,hey babe,2
+310,do you have any dinner recommendation? ,5
+311,You don't love me anymore aren't you?,8
+312,Yep,0
+313,Long time no see!,1
+314,again??,7
+315,good game,9
+316,I am so sick today,6
+317,Love you so much,2
+318,Love you too,2
+319,Gonna miss you,3
+320,I don't care anymore,4
+321,when you come home?,3
+322,okay,0
+323,yummy,5
+324,have you watched the nun?,7
+325,commended,9
+326,reported,10
+327,Hell Yeah!,9
+328,what happened?,6
+329,That film was so sad,3
+330,nice,9
+331,it was gruesome,6 
+332,don't worry,0 
+333,WHATT??,4
+334,Who is she?,4
+335,recommended,9
+336,Not recommended,10
+337,So easy,0
+338,Look behind you,7
+339,you are grounded,10
+340,that was genius!,9
+341,that was disgusting,6
+342,on the way,0
+343,on my way,0
+344,let's go!,0
+345,why he should die?,3
+346,get well soon,0
+347,I'll pray for you,0
+348,That drama makes me cry,3
+349,Nope,10
+350,Not today,0
+351,it's okay now,9
+352,Im ready,0
+353,who broke my laptop?,4
+354,Who stole my money?,4
+355,why anyone not answering?,4
+356,read by 44 and no one answer?,4
+357,Why do you eat that?,6
+358,you should told me earlier,3
+359,I regret for what I have done,3
+360,deep condolesence,3
+361,you broke my heart,8
+362,I don’t know why I trusted you?,8
+363,I have 2 good news and 1 bad news,0
+364,that was hilarious,1
+365,oppa,2
+366,loved your performance,2
+367,what a beauty,2
+368,you could have done better,10
+369,Your performance is very satisfying,9
+370,the queue is so long,6
+371,I am so frustated,3
+372,I am so sorry,3
+373,I love noodle,5
+374,stop bugging me,4
+375,she is so hot,2
+376,he is so hot,2
+377,I am disappointed in you,10
+378,thumbs up,9
+379,clap clap,9
+380,don’t you think she is cute?,2
+381,SAVAGE,1
+382,you are a liar,4
+383,you think you can fool me?,4
+384,get your ass moving,4
+385,shut up,4
+386,peek a boo,7
+387,trick or treat,7
+388,Happy valentines day ,0
+389,Happy anniversary sweetheart,2
+390,goodluck,9
+391,wish you all the best,0
+392,you can do it!,9
+393,nice to meet you,0
+394,have fun,0
+395,it's my pleasure,0
+396,what should I do now?,3
+397,I think so,0
+398,God bless You!,0
+399,now you have done it!,4  
+400,my heart melt when I saw you,3
+401,that movie was killing it,9
+402,why do you leave me broken hearted,8
+403,that was horrible,7
+404,I am afraid of him,6
+405,the food was very delicious,5
+406,look at yourself man,4
+407,why do you leave me,3
+408,my heart is only for you,2
+409,that was cute,1
+410,I love it,0
+411,could not hate it enough,10
+412,you are funny,0
+413,you are such a joker,1
+414,I love it,2
+415,you making me sad,3
+416,shut your mouth,4
+417,would definitely taste it again,5
+418,definitely not going to make it,6
+419,what did you just say,7
+420,it is such a sad story,8
+421,you are the best,9
+422,you are the worst,10
+423,give me a break,10
+424,could not get enough of it,9
+425,you have broke my heart,8
+426,completely out of control,7
+427,I am scared,6
+428,the best food ive ever eat,5
+429,watch your language,4
+430,I am so sorry,3
+431,I am so in love with you,2
+432,the best comedy,1
+433,you are funny,0
+434,you have make my heart smile,2
+435,you are the apple of my eye,2
+436,please forgive me,3
+437,I do not like you,4
+438,I am joking,5
+439,its scary,6
+440,what is that,7
+441,you have break my soul,8
+442,wish you all the best,9
+443,absolutely hate it,10
+444,so cute,0
+445,it is funny,1
+446,I heart you,2
+447,I cry with you,3
+448,give me something man,4
+449,best drink I ever had,5
+450,I was so afraid,6
+451,I peed my pants,6
+452,just super great,7
+453,I regret it,8
+454,give you all my support,9
+455,its the worst movie ever,10
+456,I like your style,9
+457,for God sake,7
+458,such a great idea,9
+459,very appetizing,5
+460,my heart is with you,8
+461,that was hilarious,1
+462,I purple you,2
+463,like your style,9
+464,love at first sight,2
+465,I knew it,1 
+466,do not be such a pussy,4
+467,great job,9
+468,it was great,9
+469,disgusting,4
+470,its disgusting,6
+471,its a mess,4
+472,no no no,7
+473,wonderful,2
+474,congrats for you,9
+475,what a small world,0
+476,lets stay in touch,9
+477,come on,4
+478,I owe you one,5
+479,hang in there,9
+480,nice,9
+481, very entertaining,0
+482,no big deal,0
+483,good for you,0
+484,take it easy,4
+485,all is well,0
+486,thank you so much,2
+487,love you bae,2
+488,what the heck,6
+489,extraordinary,9
+490,silence please,4
+491,give me a break,4
+492,I am so thankful,0
+493,I am blessed,0
+494,you are the best,9
+495,I am so happy for you,0
+496,do not make me sad,3
+497,you surprised me,7
+498,great job,9
+499, great work,9
+500, my heart is broken,8
